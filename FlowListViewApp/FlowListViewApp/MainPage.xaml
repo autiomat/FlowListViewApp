@@ -22,7 +22,7 @@
               <Frame OutlineColor="Silver" BackgroundColor="Yellow">
                 <StackLayout Padding="0" Spacing="0">
                   <Label FontSize="15" HorizontalOptions = "LayoutOptions.Start" TextColor="Blue" Margin="-7,-13,0,0" Text="{Binding Name}"/>
-                  <Label FontSize="15" HorizontalOptions = "LayoutOptions.End" TextColor="Blue" Margin="0,-13,-14,0" Text="{Binding Timer}"/>
+                  <Entry FontSize="15" HorizontalOptions = "LayoutOptions.End" TextColor="Blue" Margin="0,-13,-14,0" Text="{Binding Timer}"/>
                 </StackLayout>
               </Frame>
             </DataTemplate>

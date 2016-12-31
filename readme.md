@@ -6,3 +6,7 @@ The value of the property changed right in the Android app but not in the Window
 
 ![Image of UWP and Android](https://github.com/autiomat/FlowListViewApp/blob/master/FlowListView-Screenshot.JPG)
 
+I changed label to entry and I got also Windows UWP app working!
+
+![Image of UWP app](https://github.com/autiomat/FlowListViewApp/blob/master/UWP-Screenshot.JPG)
+ 
